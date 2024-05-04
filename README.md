@@ -1,4 +1,4 @@
-##  💫About Me 
+##  💫 About Me 
 
 - Professional with 14 years of experience in development, engineering and systems architecture.
 - Graduated in Systems Analysis from Centro Universitário CESMAC;
