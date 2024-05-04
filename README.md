@@ -8,9 +8,15 @@
 
 <p style="text-align: left;">
     <img src="https://skillicons.dev/icons?i=aws,java,kotlin,spring,hibernate,heroku,maven,gradle,git,docker,postman,postgres,mysql,elasticsearch,dynamodb"  alt="Stacks" style="max-width: 48px; height: auto;"/>
+</p>
+<p style="text-align: left;">
+    <img src="https://dbdb.io/media/logos/h2-logo.svg" width="48" height="48" alt="H2" style="max-width: 48px; height: auto;"/>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="48" alt="Quarkus" style="max-width: 48px; height: auto;"/>
     <img src="https://detekt.dev/img/home/detekt-logo.svg" width="48" height="48" alt="Detekt Plugin" style="max-width: 48px; height: auto;"/>
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" style="max-width: 48px; height: auto;"/>
     <img src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png" width="48" height="48" alt="Quarkus" style="max-width: 48px; height: auto;"/>
+    <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" width="48" height="48" alt="Camunda" style="max-width: 48px; height: auto;"/>
+    <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="48" height="48" alt="Swagger" style="max-width: 48px; height: auto;"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -26,7 +32,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renatoctorres&theme=vision-friendly-dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=renatoctorres&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=renatoctorres&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4&rank=SSECRET,SECRET,SSS,S,A,B,C)
 
 ## 🌐 Contact
 [![Email](https://img.shields.io/badge/Gmail-renatoctorres-red?style=for-the-badge&logo=gmail)](mailto:renatoctorres@gmail.com)
