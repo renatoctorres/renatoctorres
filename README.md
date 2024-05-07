@@ -7,7 +7,7 @@
 ## 💻 Tech Stack
 
 <p style="text-align: left;">
-    <img src="https://skillicons.dev/icons?i=aws,java,kotlin,spring,hibernate,heroku,maven,gradle,git,docker,postman,postgres,mysql,elasticsearch,dynamodb"  alt="Stacks" style="max-width: 48px; height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=aws,java,kotlin,golang,spring,hibernate,heroku,maven,gradle,git,docker,postman,postgres,mysql,elasticsearch,dynamodb"  alt="Stacks" style="max-width: 48px; height: auto;"/>
 </p>
 <p style="text-align: left;">
     <img src="https://dbdb.io/media/logos/h2-logo.svg" width="48" height="48" alt="H2" style="max-width: 48px; height: auto;"/>
