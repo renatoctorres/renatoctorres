@@ -7,9 +7,22 @@
 ## 💻 Tech Stack
 
 <p style="text-align: left;">
-    <img src="https://skillicons.dev/icons?i=aws,java,kotlin,golang,spring,hibernate,heroku,maven,gradle,git,docker,postman,postgres,mysql,elasticsearch,dynamodb"  alt="Stacks" height: auto;"/>
-</p>
-<p style="text-align: left;">
+    <img src="https://skillicons.dev/icons?i=aws" alt="Aws" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=golang" alt="Golang" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" height: auto;"/>
+    <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" height: auto;"/>
     <img src="https://dbdb.io/media/logos/h2-logo.svg" width="48" height="48" alt="H2" height: auto;"/>
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="48" alt="Quarkus" height: auto;"/>
     <img src="https://detekt.dev/img/home/detekt-logo.svg" width="48" height="48" alt="Detekt Plugin" height: auto;"/>
