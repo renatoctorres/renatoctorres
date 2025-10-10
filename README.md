@@ -1,114 +1,136 @@
-# Java & Spring Boot  Template - Human Resources Application
+##  💫 About Me
 
-![Java](http://ForTheBadge.com/images/badges/made-with-java.svg)
-![Docker](https://forthebadge.com/images/badges/docker-container.svg)
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![MIT](https://forthebadge.com/images/badges/license-mit.svg)
+- Professional with 14 years of experience in development, engineering and systems architecture.
+- Graduated in Systems Analysis from Centro Universitário CESMAC;
+- MBA in Solutions Architecture from FIAP;
 
-## 🧠 Overview
+##  💫 Portolio
+  <a href="https://github.com/renatoctorres/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/renatoctorres/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
 
-This project is a **Spring Boot 3.5.6** template designed to serve as a foundation for microservices written in **Java 25**.  
-It provides a robust base including:
-- Clean architecture layers (controller, service, repository, mapper, DTO, entity)
-- Full CRUD base structure using generics
-- MapStruct for type-safe DTO mapping
-- JUnit 6 + Mockito for testing
-- H2 for in-memory persistence
-- OpenAPI 3 (SpringDoc) for API documentation
-- Modular Java (`import module`) compatible with Java 25 preview features
-
----
-
-## ⚙️ Core Technologies and Versions
-
-| Component | Version | Description |
-|------------|----------|-------------|
-| **Java** | `25` | Latest JDK with `import module` and enhanced switch features |
-| **Spring Boot** | `3.5.6` | Core framework for REST APIs |
-| **MapStruct** | `1.6.3` | Compile-time mapper for DTO ↔ Entity conversion |
-| **Lombok** | `1.18.42` | Reduces boilerplate code |
-| **JUnit Jupiter** | `6.0.0` | Unit testing framework |
-| **Mockito** | `5.20.0` | Mocking and behavioral testing |
-| **H2 Database** | `2.4.240` | Lightweight in-memory database |
-| **SpringDoc OpenAPI** | `2.8.13` | Swagger UI for API documentation |
-| **JaCoCo** | `0.8.13` | Code coverage reports |
-| **Maven Compiler Plugin** | `3.14.1` | Java 25 build support |
-| **Maven Surefire Plugin** | `3.5.4` | Test execution management |
-
----
-## Build the image
-
-```
-mvn clean spring-boot:build-image
-```
-
----
-
-## 🏗️ Project Structure
-
-Requirements: Docker daemon on the build computer
-(https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/#build-image).
-
-## Configuration
-
-The application configuration for local execution is found in the application.yaml and application-local.yaml files
-
-### 🛠️ Build the application
-
-```bash
-mvn clean install
-```
-
-## 🚀 Running Application
-
-Run the Spring Boot start command 📃:
-
-```bash
-mvn spring-boot:run
-```
-
-Or directly via Java ☕:
-
-```bash
-java --enable-preview -jar target/template-spring-boot-0.0.1-SNAPSHOT.jar
-```
-
-
-The application exposes an APIs on port 8080 with these URLs:
-http://localhost:8080
-
-Swagger documentation is available on this endpoint:
-http://localhost:8080/swagger-ui/index.html
-
-Open API Specification is available on this endpoint:
-http://localhost:8080/v3/api-docs
-
-## 🧪 Testing
-
-Run the Maven Test command:
-
-```bash
-mvn test
-```
-To run tests with coverage (JaCoCo):
-
-```bash
-mvn verify
-```
-
-## Stacks
-<p style= "text-align: left;">
+## 💻 Tech Stack
+🧠 Languages
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" /> 
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+    <img src="https://icon.icepanel.io/Technology/svg/Apache-Groovy.svg" width="48" height="48" alt="Groovy" />
+    <img src="https://skillicons.dev/icons?i=scala" alt="Scala" /> 
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> 
+    <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="48" height="48" alt="JS" />
+    <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="48" height="48" alt="TS" />
+    <img src="https://skillicons.dev/icons?i=golang" alt="Golang" /> 
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" /> 
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+</div>
+
+🧩 Frameworks & Libraries
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /> 
     <img src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" width="48" height="48" alt="Jupyter" />
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="48" alt="JUnit 5" />
+    <img src="https://icon.icepanel.io/Technology/svg/Quarkus.svg" width="48" height="48" alt="Quarkus" />
+    <img src="https://icon.icepanel.io/Technology/svg/Grails.svg" width="48" height="48" alt="Grails" />
     <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" /> 
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" /> 
     <img src="https://icon.icepanel.io/Technology/svg/OpenAPI.svg" width="48" height="48" alt="OpenAPI" />
     <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="48" height="48" alt="Swagger" />
     <img src="https://icon.icepanel.io/Technology/svg/YAML.svg" width="48" height="48" alt="YAML" />
+</div>
+
+
+🧰 Build & Dev Tools
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
     <img src="https://skillicons.dev/icons?i=maven" alt="Maven" /> 
-    <img src="https://skillicons.dev/icons?i=github" alt="Github" />   
+    <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /> 
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" /> 
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" /> 
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" />    
     <img src="https://skillicons.dev/icons?i=githubactions" alt="Github Actions" />
+    <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /> 
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> 
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /> 
+    <img src="https://skillicons.dev/icons?i=openshift" alt="OpenShift" /> 
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> 
+    <img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" width="48" height="48" alt="IntelliJ" />
+    <img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="48" height="48" alt="DataGrip" />
+    <img src="https://icon.icepanel.io/Technology/svg/GoLand.svg" width="48" height="48" alt="GoLand" />
+    <img src="https://icon.icepanel.io/Technology/svg/Salesforce.svg" width="48" height="48" alt="Salesforce" />
+</div>
+
+🧮 Databases
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> 
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" />
     <img src="https://dbdb.io/media/logos/h2-logo.svg" width="48" height="48" alt="H2 Database" /> 
-</p>
+    <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="48" height="48" alt="Oracle" />
+    <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" /> 
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /> 
+    <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /> 
+    <img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra" /> 
+    <img src="https://icon.icepanel.io/Technology/svg/Cosmos-BD.svg" width="48" height="48" alt="CosmosDB" />
+</div>
+
+☁️ Cloud & Hosting
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> 
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /> 
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /> 
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-cloud-1.svg" width="48" height="48" alt="OCI" />
+    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /> 
+</div>
+
+☁️ Midlleware
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=ocaml" alt="Apache Camel" />
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="Rabbit MQ" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+</div>
+
+☁️ DevSecOps
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+    <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" alt="ArgoCD" />
+    <img src="https://icon.icepanel.io/Technology/svg/CircleCI.svg" width="48" height="48" alt="CircleCI" />
+    <img src="https://icon.icepanel.io/Technology/svg/Helm.svg" width="48" height="48" alt="Helm" />
+    <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" alt="Sonarqube" />
+    <img src="https://detekt.dev/img/home/detekt-logo.svg" width="48" height="48" alt="Detekt" />
+    <img src="https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg" width="48" height="48" alt="Groovy" />
+    <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" width="48" height="48" alt="Groovy" />
+</div>
+
+📊 Observability & API
+<div style="display: flex; gap: 8px; flex-wrap: wrap; ">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /> 
+    <img src="https://icon.icepanel.io/Technology/svg/Logstash.svg" width="48" height="48" alt="Logstash" />
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" /> 
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+    <img src="https://icon.icepanel.io/Technology/svg/Splunk.svg" width="48" height="48" alt="Splunk" />
+</div>
+
+
+## 📊 GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=renatoctorres&style=for-the-badge)
+<a href="https://github.com/renatoctorres?tab=followers">
+    <img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+</a>
+
+---
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoctorres&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renatoctorres&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renatoctorres&theme=vision-friendly-dark&hide_border=false"/>
+</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=renatoctorres&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4&rank=SSECRET,SECRET,SSS,S,A,B,C)
+
+## 🌐 Contact
+[![Email](https://img.shields.io/badge/Gmail-renatoctorres-red?style=for-the-badge&logo=gmail)](mailto:renatoctorres@gmail.com)
+<a href="https://www.linkedin.com/in/renatoctorres/"><img src="https://img.shields.io/badge/linkedin-renatoctorres-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
