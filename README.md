@@ -12,7 +12,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=renatoctorres&style=for-the-badge)
 <a href="https://github.com/renatoctorres?tab=followers">
-    <img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+<img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
 <div style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoctorres&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -24,13 +24,13 @@
 
 ###  🧰 Template Archetypes
 
-| Name                           | Language | Version | Framework                    | Version | Build    | Link                                                                     |                                                                                                                |
-|--------------------------------|----------|---------|------------------------------|---------|----------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Template Spring Java           | Java     | 25      | Spring Boot                  |         | Maven    | [🔗](https://github.com/renatoctorres/template-spring-java)              | <img src="https://github.com/renatoctorres/template-spring-java/workflows/Test/badge.svg" alt="Test Passes" /> | 
-| Template Quarkus Java          | Java     | 21      | Quarkus                      |         | Gradle   | [🔗](https://github.com/renatoctorres/template-quarkus)                  |                                                                                                                | 
-| Template Spring WebFlux        | Java     | 21      | Spring WebFlux               |         | Gradle   | [🔗](https://github.com/renatoctorres/template-spring-webflux)           |                                                                                                                | 
-| Template Spring Kotlin         | Kotlin   |         | Spring Boot                  |         | Gradle   | [🔗](https://github.com/renatoctorres/template-spring-kotlin)            |                                                                                                                | 
-| Template Spring Kotlin Camunda | Kotlin   |         | Spring Boot + BPM Camunda(8) |         | Gradle   | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8)  |                                                                                                                | 
+| Name                           | Language | Framework                    | Build  | Link      | Badges                                                                                                         |
+|--------------------------------|----------|------------------------------|--------|-----------|----------------------------------------------------------------------------------------------------------------|
+| Template Spring Java           | Java     | Spring Boot                  | Maven  | [🔗](https://github.com/renatoctorres/template-spring-java) | <img src="https://github.com/renatoctorres/template-spring-java/workflows/Test/badge.svg" alt="Test Passes" /> | 
+| Template Quarkus Java          | Java     | Quarkus                      | Gradle | [🔗](https://github.com/renatoctorres/template-quarkus) |                                                                                                                | 
+| Template Spring WebFlux        | Java     | Spring WebFlux               | Gradle | [🔗](https://github.com/renatoctorres/template-spring-webflux) |                                                                                                                | 
+| Template Spring Kotlin         | Kotlin   | Spring Boot                  | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin) |                                                                                                                | 
+| Template Spring Kotlin Camunda | Kotlin   | Spring Boot + BPM Camunda(8) | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8) |                                                                                                                |                                                                                                                 
 
 ---
 
