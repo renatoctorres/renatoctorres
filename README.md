@@ -24,13 +24,13 @@
 
 ###  🧰 Template Archetypes
 
-| Name                           | Language | Framework                    | Build  | Link      | Badges                                                                                                         |
-|--------------------------------|----------|------------------------------|--------|-----------|----------------------------------------------------------------------------------------------------------------|
-| Template Spring Java           | Java     | Spring Boot                  | Maven  | [🔗](https://github.com/renatoctorres/template-spring-java) | <img src="https://github.com/renatoctorres/template-spring-java/workflows/Test/badge.svg" alt="Test Passes" /> | 
-| Template Quarkus Java          | Java     | Quarkus                      | Gradle | [🔗](https://github.com/renatoctorres/template-quarkus) |                                                                                                                | 
-| Template Spring WebFlux        | Java     | Spring WebFlux               | Gradle | [🔗](https://github.com/renatoctorres/template-spring-webflux) |                                                                                                                | 
-| Template Spring Kotlin         | Kotlin   | Spring Boot                  | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin) |                                                                                                                | 
-| Template Spring Kotlin Camunda | Kotlin   | Spring Boot + BPM Camunda(8) | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8) |                                                                                                                |                                                                                                                 
+| Name                           | Language | Framework                    | Build  | Link                                                                   | Badges                                                                                                         |
+|--------------------------------|----------|------------------------------|--------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------- |
+| Template Spring Java           | Java     | Spring Boot                  | Maven  | [🔗](https://github.com/renatoctorres/template-spring-java)            | <img src="https://github.com/renatoctorres/template-spring-java/workflows/Test/badge.svg" alt="Test Passes" />| 
+| Template Quarkus Java          | Java     | Quarkus                      | Gradle | [🔗](https://github.com/renatoctorres/template-quarkus)                |                                                                                                               | 
+| Template Spring WebFlux        | Java     | Spring WebFlux               | Gradle | [🔗](https://github.com/renatoctorres/template-spring-webflux)         |                                                                                                               | 
+| Template Spring Kotlin         | Kotlin   | Spring Boot                  | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin)          | <img src="https://github.com/renatoctorres/template-spring-kotlin/workflows/Test/badge.svg" alt="Test Passes" />| 
+| Template Spring Kotlin Camunda | Kotlin   | Spring Boot + BPM Camunda(8) | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8)|                                                                                                               |                                                                                                                 
 
 ---
 
