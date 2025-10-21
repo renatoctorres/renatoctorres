@@ -12,7 +12,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=renatoctorres&style=for-the-badge)
 <a href="https://github.com/renatoctorres?tab=followers">
-<img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
 <div style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoctorres&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -34,10 +34,12 @@
 
 ---
 
-
-
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=renatoctorres&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4&rank=SSECRET,SECRET,SSS,S,A,B,C)
+
+![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=true&column=2&rank=SECRET,SSS,SS,S)
+![Trophies](https://github-profile-trophy.vercel.app/?username=renatoctorres&theme=onestar&no-bg=true&column=1&rank=AAA)
+![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=true&column=3&rank=AAA,AA,A,B,C)
+___
 
 ## 💻 Tech Stack
 
