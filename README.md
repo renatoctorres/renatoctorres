@@ -31,15 +31,15 @@
 | Template Spring WebFlux        | Java     | Spring WebFlux               | Gradle | [🔗](https://github.com/renatoctorres/template-spring-webflux)          | <img src="https://github.com/renatoctorres/template-spring-webflux/workflows/Test/badge.svg" alt="Test Passes" />          | 
 | Template Spring Kotlin         | Kotlin   | Spring Boot                  | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin)           | <img src="https://github.com/renatoctorres/template-spring-kotlin/workflows/Test/badge.svg" alt="Test Passes" />           | 
 | Template Spring Kotlin Camunda | Kotlin   | Spring Boot + BPM Camunda(8) | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8) | <img src="https://github.com/renatoctorres/template-spring-kotlin-camunda-8/workflows/Test/badge.svg" alt="Test Passes" /> |                                                                                                                 
-| Template Golang                | Golang   | Golang + BBold               | Go     | [🔗](https://github.com/renatoctorres/template-golang)                  | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Test Passes" />                  |                                                                                                                 
+| Template Golang                | Golang   | Spring Boot + BPM Camunda(8) | Go     | [🔗](https://github.com/renatoctorres/template-golang)                  | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Test Passes" />                  |                                                                                                                 
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=2&rank=SECRET,SSS,SS,S)
-![Trophies](https://github-profile-trophy.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=1&rank=AAA)
-![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=3&rank=AAA,AA,A,B,C)
+![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=2&margin-h=0&no-frame=true&rank=SECRET,SSS,SS,S)
+![Trophies](https://github-profile-trophy.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=1&margin-h=0&no-frame=true&rank=AAA)
+![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=4&margin-h=0&no-frame=true&rank=AAA,AA,A,B,C)
 ___
 
 ## 💻 Tech Stack
