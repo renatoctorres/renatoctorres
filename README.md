@@ -22,7 +22,7 @@
 
 ##  📜 Portfolio
 
-###  🧰 Template Archetypes
+###  🧰 Template Archetypes - CRUD Microservices
 
 | Name                           | Language | Framework                    | Build  | Link                                                                    | Badges                                                                                                                     |
 |--------------------------------|----------|------------------------------|--------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +31,15 @@
 | Template Spring WebFlux        | Java     | Spring WebFlux               | Gradle | [🔗](https://github.com/renatoctorres/template-spring-webflux)          | <img src="https://github.com/renatoctorres/template-spring-webflux/workflows/Test/badge.svg" alt="Test Passes" />          | 
 | Template Spring Kotlin         | Kotlin   | Spring Boot                  | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin)           | <img src="https://github.com/renatoctorres/template-spring-kotlin/workflows/Test/badge.svg" alt="Test Passes" />           | 
 | Template Spring Kotlin Camunda | Kotlin   | Spring Boot + BPM Camunda(8) | Gradle | [🔗](https://github.com/renatoctorres/template-spring-kotlin-camunda-8) | <img src="https://github.com/renatoctorres/template-spring-kotlin-camunda-8/workflows/Test/badge.svg" alt="Test Passes" /> |                                                                                                                 
-| Template Golang                | Golang   | Spring Boot + BPM Camunda(8) | Go     | [🔗](https://github.com/renatoctorres/template-golang)                  | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Test Passes" />                  |                                                                                                                 
+| Template Golang                | Golang   | Spring Boot + BPM Camunda(8) | Go     | [🔗](https://github.com/renatoctorres/template-golang)                  | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Docker image" />         |                                                                                                                 
+
+###  🧰 Template Archetypes - Serverless Functions
+
+| Name                                       | Language | Framework | Build     | Link                                                                             | Badges                                                                                                                                                                                                                  |
+|--------------------------------------------|----------|-----------|-----------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Template Cloud Function - PubSub Consumer  | Golang   | Golang    | Go/Docker | [🔗](https://github.com/renatoctorres/template-go-cloudfunction-pubsub-consumer) | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Docker Image" /> <img src="https://github.com/renatoctorres/template-golang/workflows/go/badge.svg" alt="Go Build" /> |                                                                                                                 
+
+
 
 ---
 
