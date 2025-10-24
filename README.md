@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/github/followers/renatoctorres?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
 <div style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoctorres&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical&hide=html"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=renatoctorres&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renatoctorres&theme=vision-friendly-dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoctorres&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&hide=html"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renatoctorres&show_icons=true&theme=github_dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renatoctorres&theme=github_dark&hide_border=false"/>
 </div>
 
 ##  📜 Portfolio
