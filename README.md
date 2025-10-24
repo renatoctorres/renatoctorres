@@ -37,7 +37,7 @@
 
 | Name                                       | Language | Framework | Build     | Link                                                                             | Badges                                                                                                                                                                                                                  |
 |--------------------------------------------|----------|-----------|-----------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Template Cloud Function - PubSub Consumer  | Golang   | Golang    | Go/Docker | [🔗](https://github.com/renatoctorres/template-go-cloudfunction-pubsub-consumer) | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Docker Image" /> <img src="https://github.com/renatoctorres/template-golang/workflows/go/badge.svg" alt="Go Build" /> |                                                                                                                 
+| Template Cloud Function - PubSub Consumer  | Golang   | Golang    | Go/Docker | [🔗](https://github.com/renatoctorres/template-go-cloudfunction-pubsub-consumer) | <img src="https://github.com/renatoctorres/template-golang/workflows/docker-image/badge.svg" alt="Docker Image" /> <img src="https://github.com/renatoctorres/template-golang/workflows/Go/badge.svg" alt="Go Build" /> |                                                                                                                 
 
 
 
