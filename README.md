@@ -45,9 +45,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=2&margin-h=0&no-frame=true&rank=SECRET,SSS,SS,S)
-![Trophies](https://github-profile-trophy.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=1&margin-h=0&no-frame=true&rank=AAA)
-![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&column=4&margin-h=0&no-frame=true&rank=AAA,AA,A,B,C)
+![Trophies](https://github-trophies.vercel.app/?username=renatoctorres&theme=onestar&no-bg=false&margin-h=0&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 ___
 
 ## 💻 Tech Stack
